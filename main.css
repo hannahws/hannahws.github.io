@@ -11,6 +11,7 @@ html {
     display: flex;
     margin-left: 15%;
     margin-right: auto;
+
     
 }
 
@@ -108,11 +109,13 @@ section6{
 
 
 div{
-    width: 70%;
+    width: 60%;
     display: inline-block;
       
 }
  
+
+
 
 .textleft{
     text-align: left
@@ -143,12 +146,12 @@ h1{
 
 h2 {
     margin-top: 1.3em;
-    font-size: 40px;
+    font-size: 30px;
 }
 
 h3{
     font-family: 'grouch';
-    font-size: 30px;
+    font-size: 40px;
 }
 
 h4{
