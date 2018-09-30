@@ -207,7 +207,8 @@ section1:hover .omove{
 
 .colthird {
     width: 26.66%;
-/*    float: right;*/
+    margin: 02000;
+    float: right;
 }
 
 .coltwothird {
@@ -222,7 +223,7 @@ section1:hover .omove{
  
 
 .abstract{
-    width:  70%;
+    width:  100%;
     float: right;
 }
 
@@ -273,6 +274,11 @@ h5{
     font-family: 'vcr';
 }
 
+
+h6{
+    font-family: 'grouch';
+    font-size: 16px;
+}
 
 
 
