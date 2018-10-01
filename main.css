@@ -19,6 +19,12 @@ html {
 }
 
 
+.logo{
+    width: auto;
+    height: 80px;
+    float: right;
+}
+
 
 div{
     width: 70%;
