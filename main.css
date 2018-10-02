@@ -19,6 +19,12 @@ html {
 }
 
 
+.video{
+    height: auto;
+    width: 100%;
+    margin:0px;
+}
+
 .logo{
     width: auto;
     height: 80px;
@@ -284,6 +290,7 @@ h5{
 h6{
     font-family: 'grouch';
     font-size: 16px;
+    margin: 0px;
 }
 
 
@@ -295,6 +302,13 @@ p{
     font-size: 14px
 }
 
+
+p1{
+    color: #fff;
+    font-family: 'vcr';
+    display: inline;
+    font-size: 12px
+}
 
 
 a {
@@ -373,6 +387,7 @@ samp {
     
     div{
         width: 100%;
+        
     }
 
     .abstract{
@@ -380,7 +395,7 @@ samp {
     }
     
     .flex{
-        display:grid;
+        display:inline-grid;
             width: 100%;
     }
     
@@ -399,6 +414,7 @@ samp {
     
     .coltwothird {
     width: 100%;
+                display:inline-grid;
 }
     
     
@@ -428,9 +444,43 @@ section1 .secondmove{
 
 
     
+.small{
+    width:100%;
+    height: auto;
+}
+
+
+
+.gif{
+    width: 100%;
+    float: right;
+}
+
+
+.third{
+    width: 100%;
+    text-align: center}
+
+
+.col1 {
+    width: 100%;
+}
+
+.colthird {
+    width: 100%;
+    margin: 02000;
+    float: right;
+}
+
+.coltwothird {
+    width: 100%;
+    }
     
+    .leftmargin{
+    margin-left: 0px;
     
-    
+}
+
     
 }
 
