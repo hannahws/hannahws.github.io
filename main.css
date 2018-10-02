@@ -319,18 +319,12 @@ a {
     
 }
 
-a:hover {
-    position: relative;
-    color: white;
-   text-decoration:underline;
 
-    
-}
 
 
 a:hover {
     position: relative;
-    color: orange;
+    color: #E53B28;
    text-decoration:underline;
 
     
