@@ -248,6 +248,7 @@ section1:hover .omove{
 
 @font-face {font-family: 'vcr'; src:url('font/vcr.ttf')}
 
+@font-face {font-family: 'aktiv'; src:url('font/AktivGrotesk.ttf')}
 
 
 
@@ -297,7 +298,7 @@ h6{
 
 p{
     color: #fff;
-    font-family: 'vcr';
+    font-family: 'aktiv';
     display: inline;
     font-size: 14px
 }
@@ -309,6 +310,16 @@ p1{
     display: inline;
     font-size: 12px
 }
+
+p2{
+    color: #fff;
+    font-family: 'vcr';
+    display: inline;
+    font-size: 16px
+}
+
+
+
 
 
 a {
