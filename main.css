@@ -53,6 +53,24 @@ img {
 
 
 
+.half{
+    width: 300px;
+    height: auto;
+    margin-top: 10%;
+    margin-bottom: 10%;
+    
+}
+
+.halfright{
+    width: 300px;
+    height: auto;
+    margin-bottom: 10%;
+
+
+    
+}
+
+
 body {
 /*    background-image:url("img/bodybg.jpg");*/
     background-color: black;
